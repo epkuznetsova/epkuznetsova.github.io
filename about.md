@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hello, everyone! This is my github
+Hello, everyone! This is my github account. I will fill it with new materials and projects :)
 
 ### More Information
 
