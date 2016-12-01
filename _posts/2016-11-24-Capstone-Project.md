@@ -8,7 +8,7 @@ Let's assume someone is planning to buy a car. A buyer usually knows which car m
 To understand the problem let's have a look at those four as an example:
 
 ![](./pics/table.jpg)
-
+![_config.yml]({{ site.baseurl }}/pics/table.jpg)
 
 It is unclear which one is the best deal. Because a buyer wants the cheapest car with the lowest odometer reading (the least milage) and the newest one at the same time. This simple problem is the example multi-objective optimization problem and finding non-dominated solutions.
 
