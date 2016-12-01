@@ -3,7 +3,7 @@ layout: post
 title: Multi-Objective Optimization Problem on the example of buying a car
 ---
 
-For the example of buying a car there are three objectives, (Price, Odometer Reading and Age. Each objective corresponds to a different optimal solution and it is unclear which one is the best deal. Because a buyer wants the cheapest car with the lowest odometer reading (the least milage) and the newest one at the same time. This simple problem is the example multi-objective optimization problem and finding non-dominated solutions.                                                                                                                                                                                                         ![_config.yml]({{ site.baseurl }}/images/table.jpg)
+For the example of buying a car there are three objectives, (Price, Odometer Reading and Age. Each objective corresponds to a different optimal solution and it is unclear which one is the best deal. Because a buyer wants the cheapest car with the lowest odometer reading (the least milage) and the newest one at the same time. This simple problem is the example multi-objective optimization problem and finding non-dominated solutions.![_config.yml]({{ site.baseurl }}/images/table.jpg)
 
 
 ### Project outline:
