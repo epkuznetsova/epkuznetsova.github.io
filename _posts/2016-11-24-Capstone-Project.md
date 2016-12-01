@@ -12,12 +12,12 @@ Content in the first column | Content in the second column
 
 
 ![](./pics/table.jpg)
-![_config.yml]({{ site.baseurl }}/pics/table.jpg)
+![_config.yml]({{ site.baseurl }}/images/table.jpg)
 
 It is unclear which one is the best deal. Because a buyer wants the cheapest car with the lowest odometer reading (the least milage) and the newest one at the same time. This simple problem is the example multi-objective optimization problem and finding non-dominated solutions.
 
 
-![_config.yml]({{ site.baseurl }}/pics/config.png)
+![_config.yml]({{ site.baseurl }}/images/config.png)
 
 The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
 
@@ -56,8 +56,8 @@ I collected data for my project by scraping it from web-site www.carsales.com.au
 
 Original data set was really messy mainly because all the car make features were placed under one tag:
  
-![] (./pics/pastedImage0.png)
-![_config.yml]({{ site.baseurl }}/pics/pastedImage0.jpg)
+
+![_config.yml]({{ site.baseurl }}/images/pastedImage0.jpg)
 
 
 Final data set used for analysis is saved as "corolla.csv"
