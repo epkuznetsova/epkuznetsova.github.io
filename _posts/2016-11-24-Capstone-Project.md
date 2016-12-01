@@ -57,6 +57,8 @@ I collected data for my project by scraping it from web-site www.carsales.com.au
 Original data set was really messy mainly because all the car make features were placed under one tag:
  
 ![] (./pics/pastedImage0.png)
+![_config.yml]({{ site.baseurl }}/pics/pastedImage0.jpg)
+
 
 Final data set used for analysis is saved as "corolla.csv"
 
