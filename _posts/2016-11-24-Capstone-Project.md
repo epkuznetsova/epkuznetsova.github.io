@@ -4,6 +4,7 @@ title: Multi-Objective Optimization Problem on the example of buying a car
 ---
 
 For the example of buying a car there are three objectives, (Price, Odometer Reading and Age). Each objective corresponds to a different optimal solution.
+
 First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
