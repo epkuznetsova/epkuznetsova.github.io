@@ -17,7 +17,7 @@ Content in the first column | Content in the second column
 It is unclear which one is the best deal. Because a buyer wants the cheapest car with the lowest odometer reading (the least milage) and the newest one at the same time. This simple problem is the example multi-objective optimization problem and finding non-dominated solutions.
 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![_config.yml]({{ site.baseurl }}/pics/config.png)
 
 The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
 
