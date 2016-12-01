@@ -3,9 +3,12 @@ layout: post
 title: Multi-Objective Optimization Problem on the example of buying a car
 ---
 
-Let's assume someone is planning to buy a car. A buyer usually knows which car make he or she wants. This is necessary assumption because most of car makes have its own rate of price decrease (I found it out after scraping data for different car makes). For my analysis I picked most popular car in Australia - Toyota Corolla. The most important features are price, age and odometer (our objectives). 
+For the example of buying a car there are three objectives, (Price, Odometer Reading and Age). Each objective corresponds to a different optimal solution.
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 
-To understand the problem let's have a look at those four as an example:
 
 ![](./pics/table.jpg)
 ![_config.yml]({{ site.baseurl }}/pics/table.jpg)
