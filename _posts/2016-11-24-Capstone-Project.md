@@ -3,11 +3,21 @@ layout: post
 title: Multi-Objective Optimization Problem on the example of buying a car
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Let's assume someone is planning to buy a car. A buyer usually knows which car make he or she wants. This is necessary assumption because most of car makes have its own rate of price decrease (I found it out after scraping data for different car makes). For my analysis I picked most popular car in Australia - Toyota Corolla. The most important features are price, age and odometer (our objectives). 
+
+To understand the problem let's have a look at those four as an example:
+
+![](./pics/table.jpg)
+
+
+It is unclear which one is the best deal. Because a buyer wants the cheapest car with the lowest odometer reading (the least milage) and the newest one at the same time. This simple problem is the example multi-objective optimization problem and finding non-dominated solutions.
+
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
 The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+
+
 # Capstone project: Multi-Objective Optimization Problem on the example of buying a car.
 
 ### Project outline:
