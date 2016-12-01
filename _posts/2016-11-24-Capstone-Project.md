@@ -39,7 +39,7 @@ I collected data for my project by scraping it from web-site www.carsales.com.au
 Original data set was really messy mainly because all the car make features were placed under one tag:
  
 
-![_config.yml]({{ site.baseurl }}/images/pastedImage0.jpg)
+![_config.yml]({{ site.baseurl }}/images/pastedImage0.png)
 
 Final data set used for analysis is saved as "corolla.csv"
 
@@ -53,31 +53,31 @@ For building Pareto surface I used NSGA-II(non-dominated sorting genetic algorit
 Epsiolon parameter sets resolution of solutions found. 
 For epsilon = 1e-9 (for all three dimentions), there are 133 non-dominated solutions (out of original 3397):
 
-![]![_config.yml]({{ site.baseurl }}/images/3d1e-9.png) 
+![_config.yml]({{ site.baseurl }}/images/3d1e-9.png) 
 
 Futher customization allows reducing number of solutions:
 
 --epsilons 1 1000 100
 
-![]![_config.yml]({{ site.baseurl }}/images/figure_1-15.png) 
+![_config.yml]({{ site.baseurl }}/images/figure_1-15.png) 
 
 --epsilons 2 5000 500
 
-![]![_config.yml]({{ site.baseurl }}/images/figure_1-14.png) 
+![_config.yml]({{ site.baseurl }}/images/figure_1-14.png) 
 
 --epsilons 5 10000 1000
 
-![]![_config.yml]({{ site.baseurl }}/images/figure_1-13.png) 
+![_config.yml]({{ site.baseurl }}/images/figure_1-13.png) 
 
 
 --epsilons 7 15000 3000
 
-![]![_config.yml]({{ site.baseurl }}/images/figure_1-12.png) 
+![_config.yml]({{ site.baseurl }}/images/figure_1-12.png) 
 
 
 --epsilons 10 20000 5000
 
-![]![_config.yml]({{ site.baseurl }}/images/figure_1-11.png) 
+![_config.yml]({{ site.baseurl }}/images/figure_1-11.png) 
 
 
 ### References
